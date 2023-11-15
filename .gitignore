@@ -381,6 +381,7 @@ google-services.json
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/vcs.xml
 
 # AWS User-specific
 .idea/**/aws.xml
